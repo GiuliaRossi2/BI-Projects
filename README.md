@@ -1,7 +1,6 @@
-# BI-Projects
-This repository contains two Business Intelligence projects developed during an academic course.
-The focus of both projects is data analysis, transformation, and visualization to extract meaningful business and educational insights.
-
+# Business Intelligence Projects
+This repository contains two projects developed for the *Business Intelligence* course at **[CY Tech](https://cytech.cyu.fr/cy-tech-en)**. 
+The primary objective was to manage the entire data pipeline from cleaning and transformation to interactive visualization, in order to conduct exploratory analysis.
 
 ## Project 1: Retail Margin Reduction Analysis
 **Project Objective:**  
